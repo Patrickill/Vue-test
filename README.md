@@ -9,3 +9,7 @@ vue3
 pinia
 
 vue-router 
+
+还有eslint作为代码规范工具
+
+熟悉了git的分支的操作
