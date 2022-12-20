@@ -13,3 +13,5 @@ vue-router
 还有eslint作为代码规范工具
 
 熟悉了git的分支的操作
+
+感觉还是webstorm的补全好一点
